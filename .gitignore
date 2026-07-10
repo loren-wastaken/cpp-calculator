@@ -38,6 +38,9 @@
 *.exe
 *.out
 *.app
+*.elf
+*.o
+calculator
 
 # Build directories
 build/
